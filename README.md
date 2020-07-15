@@ -7,8 +7,6 @@
 
 ##  👋 Welcome to my profile
 
-### Systems Engineer
-
  - 📘 Go Lang
  - 📒 Javascript
  - 📗 Vue
