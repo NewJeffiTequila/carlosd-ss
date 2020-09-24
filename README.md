@@ -7,4 +7,4 @@
 
 ##  👋 Welcome to my profile
 
- #### 📜 I have been working with development since 2018, using the most varied technologies and actively participating in both open source projects and private companies, always using good practices and participating strongly in communities in search of developing systems with excellence.
+ #### 📜 Developer
