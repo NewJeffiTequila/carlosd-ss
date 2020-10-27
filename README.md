@@ -6,4 +6,4 @@
 
 <img src="https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/hiking.svg"  height="150"> 
 
-![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=gruvbox)
+![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=react)
