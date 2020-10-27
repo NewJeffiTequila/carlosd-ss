@@ -5,3 +5,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/carlosd.ss/?hl=pt-br)](https://www.instagram.com/carlosd.ss/?hl=pt-br)
 
 <img src="https://github.com/carlosd-ss/carlosd-ss/blob/master/.github/hiking.svg"  height="150"> 
+
+![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=gruvbox)
