@@ -8,3 +8,4 @@
  
 
 ![carlosd-ss](https://github-readme-stats.vercel.app/api?username=carlosd-ss&show_icons=true&theme=default)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosd-ss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
